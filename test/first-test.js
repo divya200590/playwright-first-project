@@ -1,0 +1,1 @@
+console.log("This is first log from my first local file")
